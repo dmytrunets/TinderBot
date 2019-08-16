@@ -1,6 +1,8 @@
-# BinanceBot
-Web app that emulate trading using some strategy.
-As a results is candlestick chart with actions (sell, buy, create stop loss)
+# TinderBot
+Script functionality:
+* Login Tinder app
+* Like all profiles
+* Write `hello message` to all new matches
 
 ## Requirements
 1. Docker
